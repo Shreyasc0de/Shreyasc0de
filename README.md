@@ -1,64 +1,81 @@
-# 👋 Hi, I’m Shreya Silwal
-💻 Web Developer @ Bhasha Tech Inc. | Information Systems Graduate  
-🎨 Passionate about Frontend Development, UI/UX, and Data  
+<div align="center">
+  <h1>👋 Hi, I’m Shreya Silwal</h1>
+  <h3>Machine Learning Engineer | Full-Stack AI Practitioner</h3>
+  <p><i>Bridging the gap between PyTorch models and Production Applications.</i></p>
+
+  <a href="https://www.linkedin.com/in/shreyasilwal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  </a>
+  <a href="mailto:shrslwl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
 
 ---
 
-## 🛠 Technical Skills
-**Programming:** Python, Java, JavaScript, React, .NET, HTML, CSS, SQL, Oracle, OOP  
-**Tools & Platforms:** SAP, Power BI, MS Excel, MS Access, Cloud Platforms (familiar), SEO/Digital Marketing, JavaFX  
-**Data & Security:** IBM Data Science, Google Cybersecurity, Machine Learning  
-**UI/UX:** Responsive Web Development, UX Design Foundations  
-**APIs:** REST, JSON  
-**Other:** Risk Management, Client Product Implementations  
-**Learning:** Golang  
+### 🚀 **About Me**
+I am a **Full-Stack AI Practitioner** focused on building end-to-end machine learning systems. Unlike traditional data scientists who stop at the Jupyter Notebook, I specialize in deploying models into interactive applications using **Streamlit** and **React**.
+
+- 🔭 I’m currently working on **GenAI Agents** and **LLM Fine-tuning**.
+- 🌱 I’m currently learning **Golang** for high-performance backend systems.
+- 👯 I’m looking to collaborate on **Open Source AI tools** and **FinTech/Analytics** projects.
+- ⚡ **Fun fact:** I can build the model (Python) *and* the frontend (React) to visualize it.
 
 ---
 
-## 💼 Professional Experience
-**Web Developer – Bhasha Tech Inc.**  
-*Aug 2025 – Present*  
-- Built and maintained responsive websites using **HTML, CSS, JavaScript, and React**.  
-- Integrated APIs and optimized site performance, achieving **18% increase in active users**.  
-- Collaborated with cross-functional teams to deliver **user-friendly web solutions**.  
-- Enhanced interactivity and site performance for improved customer experience.  
+### 🛠 **Tech Stack**
+
+**Machine Learning & AI**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+
+**Full-Stack & Deployment**
+<br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+
+**Data Engineering**
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 
 ---
 
-## 🚀 Projects
+### 📂 **Featured Projects**
 
-**Application Development (2025)**  
-- Integrated **MySQL** for secure data storage and retrieval.  
-- Designed an interactive **JavaFX UI** with smooth navigation.  
+#### 🤖 **[Romanized Nepali Text Classification (GenAI)](https://github.com/Shreyasc0de)**
+*Fine-tuned Transformer models for NLP on unstructured datasets.*
+- **Tech:** Python, PyTorch, Hugging Face, BERT
+- **Impact:** Improved dataset reliability by **35%** via automated preprocessing pipelines.
+- **Metric:** Reduced model misclassification rate by **22%**.
 
-**E-Commerce Website Development (2024)**  
-- Built a responsive e-commerce site with **React, JavaScript, and SQL**.  
-- Applied **SEO best practices** to boost online visibility.  
+#### 📈 **[Stock Price Prediction (FinTech)](https://github.com/Shreyasc0de)**
+*Time-series forecasting comparing LSTM networks against Ensemble methods.*
+- **Tech:** Python, LSTM, Keras, Matplotlib
+- **Validation:** Rigorous backtesting using **RMSE** and **Diebold-Mariano** tests.
+- **Status:** **Research Published**
 
-**Study Time Tracker Web App (2025)**  
-- Developed a personalized dashboard to track study hours.  
-- Implemented **login + user-specific persistence (CSV)**, with themes, animations, and filters.  
-
-**Culture Swap Platform (2025)**  
-- Created a **Streamlit-based app** for cultural recipe & story sharing.  
-- Added **cultural filters, user submissions, and interactive layouts**.  
-
----
-
-## 🌱 Currently Exploring
-- Golang  
-- Advanced React patterns (Server Components, Suspense)  
-- Accessibility-first development & performance audits  
+#### 🌍 **[Culture Swap Platform](https://github.com/Shreyasc0de)**
+*Interactive cultural exchange app with rapid prototyping.*
+- **Tech:** **Streamlit**, Python, Pandas
+- **Feature:** Full-stack implementation from data persistence to UI filtering.
 
 ---
 
-## 📌 Open To
-I’m currently working as a Web Developer at Bhasha Tech Inc. but **open to junior developer roles** where I can grow further, contribute to impactful projects, and refine my UI/UX and full-stack skills.  
-
----
-
-## 🔗 Connect With Me
-- 🌐 [Portfolio](https://shreyasilwal.com/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreyasilwal/)  
-- 💻 [GitHub](https://github.com/Shreyasc0de)  
-- ✉️ [Email](mailto:shrslwl@gmail.com)  
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyasc0de&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasc0de&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
