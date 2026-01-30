@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Shreya Silwal</h1>
-  <h3>Machine Learning Engineer | Full-Stack AI Practitioner</h3>
+  <h3>Developer | Machine Learning Engineer | Full-Stack AI Practitioner</h3>
   <p><i>Bridging the gap between PyTorch models and Production Applications.</i></p>
 
   <a href="https://www.linkedin.com/in/shreyasilwal/">
